@@ -1,2 +1,2 @@
 # REX647.github.io
-My GitHub website, which showcases my projects I've been working on.
+My GitHub account website, which showcases the projects I've been working on.
