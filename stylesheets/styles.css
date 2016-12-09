@@ -63,7 +63,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:rgb(50,50,200);
   margin:0 0 20px;
 }
 
@@ -80,11 +80,11 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:rgb(50,50,200);
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:rgb(50,50,200);
 }
 
 a {
@@ -93,18 +93,18 @@ a {
 }
 
 a:hover {
-  color:#069;
+  color:rgb(50,50,200);
 }
 
 a small {
   font-size:11px;
-  color:#777;
+  color:rgb(50,50,200);
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:rgb(50,50,200);
 }
 
 .wrapper {
@@ -121,7 +121,7 @@ blockquote {
 
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:#333;
+  color:rgb(50,50,200);
   font-size:12px;
 }
 
@@ -145,12 +145,12 @@ th, td {
 }
 
 dt {
-  color:#444;
+  color:rgb(50,50,200);
   font-weight:700;
 }
 
 th {
-  color:#444;
+  color:rgb(50,50,200);
 }
 
 img {
@@ -192,7 +192,7 @@ header li:last-child a {
 header ul a {
   line-height:1;
   font-size:11px;
-  color:#999;
+  color:rgb(50,50,200);
   display:block;
   text-align:center;
   padding-top:6px;
@@ -200,7 +200,7 @@ header ul a {
 }
 
 header ul a:hover {
-  color:#999;
+  color:rgb(50,50,200);
 }
 
 header ul a:active {
